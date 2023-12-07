@@ -1,0 +1,13 @@
+{
+  "main": {
+    "header": "ಹಲೋ ವರ್ಲ್ಡ್!",
+    "new_messages_one": "ನೀವು ಒಂದು ಹೊಸ ಸಂದೇಶವನ್ನು ಹೊಂದಿದ್ದೀರಿ.",
+    "new_messages_other": "ನೀವು {{count}} ಹೊಸ ಸಂದೇಶಗಳನ್ನು ಹೊಂದಿದ್ದೀರಿ.",
+    "current_date": "ಇಂದು {{date, DATE_LONG}} ಆಗಿದೆ.",
+    "incoming_message": "ನೀವು {{from}} ಇಂದ ಹೊಸ ಸಂದೇಶವನ್ನು ಹೊಂದಿದ್ದೀರಿ.",
+    "message_contents_female": "ಅವಳು ಹೇಳುತ್ತಾಳೆ:{{body}}",
+    "message_contents_male": "ಅವನು ಹೇಳುತ್ತಾನೆ: :{{body}}",
+    "message_contents_other": "",
+    "new_messages_zero": "ನೀವು 0 ಸಂದೇಶಗಳನ್ನು ಹೊಂದಿದ್ದೀರಿ."
+  }
+}
